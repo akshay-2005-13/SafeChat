@@ -130,16 +130,3 @@ This runs 5 sample messages through the classifier and prints results to the ter
 - [ ] Multi-language support
 - [ ] Custom threshold configuration
 
----
-
-## 👨‍💻 Author
-
-**Vootkuri Akshay Reddy**
-- GitHub: [@akshay-2005-13](https://github.com/akshay-2005-13)
-- LinkedIn: [vootkuri-akshay-reddy](https://linkedin.com/in/vootkuri-akshay-reddy)
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
